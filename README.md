@@ -4,7 +4,7 @@
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/1.png?raw=true" alt="drawing" width="500"/>
 </p>
 <p align="center">
-  This project is an Visual Studio application for an User Interface Design subject which has been programmed in C#.
+  This project is a Windows Form application made with Visual Studio application for an User Interface Design subject which has been programmed in C#.
 </p>
 <p align="center">
   This application´s purpose is to simulate a tavern/restaurant program which allows the users to book, buy food/drinks and to pay.
