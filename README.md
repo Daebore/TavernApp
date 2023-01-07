@@ -74,7 +74,7 @@ If there it already is a user with the very same name in the system, an error me
 
 ## :house: Main menu
 <p align="center">
-  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/3.png?raw=true" alt="drawing" width="500"/>
+  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/gif2.gif?raw=true" width="500"/>
 </p>
 
 Once you have already logged in, you will be inside the tavern's lounge.
@@ -132,7 +132,7 @@ chose a method payment.
 
 ## :credit_card: Selecting a payment method
 <p align="center">
-  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/8.png?raw=true" width="500"/>
+  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/gif3.gif?raw=true" width="500"/>
 </p>
 
 in this page, three different payment options will be shown::
