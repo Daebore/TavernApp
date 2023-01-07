@@ -21,132 +21,131 @@
 
 
 ## 	:page_facing_up: Features 
-- Log in with a registered user :running:
+- Log in with a registered user :woman: :man:
 
-- Main menu :heart:
+-Creating new user :baby:
 
-- Order drink :apple:
+- Main menu :house:
 
-- Order food :zzz:
+- Ordering drink :beer:
 
-- Book a table :baby:
+- Ordering food :hamburger:
 
-- Pay :baby:
-  - Select payment method
+- Booking a table :pencil:
+
+- Paying :euro:
+  - Selecting a payment method :credit_card:
 
 
-## :man: :woman: Logging in
+## :woman: :man: Logging in
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/1.png?raw=true" width="500"/>
 </p>
 
-The first time you use Gordon't, you will have to fill a questionnaire with your personal data. 
+First of all, you have to loh in if you want to acess to the App.
 
-This data will be saved in a database.
+Logging in is very easy, you only need to write down your name and your password. If one of them are incorrect,
+an error message will be shown.
 
-This page only appears once, so you do not have to refill it each time you use the app.
+The user's name and password registered in the system are saved in a .txt file, when an user wants to log in, the program reads the .txt
+file and searchs for the name and password.
 
+If you have not a user registered, you can create a new one by pressing the buttom "Registrarse".
 
-## :house: Main page
+## :baby: Creating new user
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/2.png?raw=true" alt="drawing" width="500"/>
 </p>
 
-## :house: Main page
+In this page you will be a able to create a new user with him/her own password. The data will be saved in a .txt file.
+
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/2.1.png?raw=true" alt="drawing" width="500"/>
 </p>
 
-## :house: Main page
+The information can not be empy.
+
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/2.3.png?raw=true" alt="drawing" width="500"/>
 </p>
 
-This is the main page where the user's body mass index will be showed.
-
-Beneath, there is a textbox with personal data about the user's health. A message will be displayed with different colours, depends on the recommended weight on comparison with the current weight.
-  - Blue - Under the recommended weight.
-  - Green - On the recommended weight. 
-  - Yellow - Over the recommended weight. 
-  - Orange - Overweight class 1. 
-  - Red - Overweight class 2. 
-  - Purple - Overweight class 3. 
+If there it already is a user with the very same name in the system, an error message will be shown as well.
 
 
-## :pencil2: Changing data
+## :house: Main menu
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/3.png?raw=true" alt="drawing" width="500"/>
 </p>
 
-Have you lost some weight over the last weeks?
+Once you have already logged in, you will be inside the tavern's lounge.
 
-Are you taller than last month?
+On the left, there will be different options:
 
-Do you want to update your personal data?
+  - Tavern's drink menu.
+  - Tavern's food menu.
+  - Booking system.
+  - Payment page. 
+  - Returning to Log in menu. 
 
-In this page you are allowed to update your personal data. It's important to take into consideration that by changing this data, the information given in the main page may change too.
-
-## :floppy_disk: Downloadable content
+## :beer: Ordering drink
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/4.png?raw=true" width="500"/>
 </p>
 
-Gordon't will let the user to download PDFs with low calorie diets and exercise rutines that will help the user to lose weight faster and in a easier way.
+In this page the user will be able to chose the drink he/she wants and the quantity.
+
+The final price will be shown at the end and the data will be saved in a .txt file.
 
 
-## :zzz: :alarm_clock: Sleep hours counter
+## :hamburger: Ordering food
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/5.png?raw=true" width="500"/>
 </p>
 
-Do you know that sleeping well allows people to lose weight faster and improve their health?
-It is important to sleep an average of 8-9 hours per day. 
+In this page the user will be able to chose the food he/she wants and the quantity.
 
-Gordon't will allow its users to record the user's hours of sleep and save the data in a database.
-To record the hours, the application uses a chronometer.
+The final price will be shown at the end and the data will be saved in a .txt file.
 
 
-## :bar_chart: Evolution
+## :pencil: Booking a table
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/6.png?raw=true" width="500"/>
 </p>
 
-Last, but no least, the user will be able to see if he/she have lost or gain weight over the time. By touching the arrow bottons, you user can see a record with the differents weights of the user alongside the date it has been registered or modified.
+The customer can also book a table to go to the tavern to drink/eat without having to wait.
 
-Beneath, the user can do exactly the same with the daily hours of sleep, to check if he/she is sleeping better or worse over the days.
+All the data needed is the customer's name, the number of people, the date and an especific hour.
 
-All this data is saved in a database, so the user does not have to worry about the quantity of data and memory.
-
-## :bar_chart: Evolution
+## :euro: Paying
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/7.png?raw=true" width="500"/>
 </p>
 
-Last, but no least, the user will be able to see if he/she have lost or gain weight over the time. By touching the arrow bottons, you user can see a record with the differents weights of the user alongside the date it has been registered or modified.
+In the payment page, the user can see the sum with the final price. The sum are generated by all the prices of all products that have been chosen by the customer and are loaded in a .txt file.
 
-Beneath, the user can do exactly the same with the daily hours of sleep, to check if he/she is sleeping better or worse over the days.
+There is a big difference among the .txt used to save the users registered and the other two used to saved the food and the drink registrations: the first one save the information even when the program is closed and loaded when an user want to log in, however, the data on the.txt files used to order food/drink is deleted once the programe is close, so the new user has no access to the other users orders.
 
-All this data is saved in a database, so the user does not have to worry about the quantity of data and memory.
+By pressing "Mostrar" the final price will be shown and by pressing "Pagar", the payment will be done.
 
-## :bar_chart: Evolution
+However, there is a possibility the user has not choosen a payment method yet. At the left of the page, inside a shield, there is a button that allows the users to
+chose a method payment.
+
+## :credit_card: Selecting a payment method
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/8.png?raw=true" width="500"/>
 </p>
 
-Last, but no least, the user will be able to see if he/she have lost or gain weight over the time. By touching the arrow bottons, you user can see a record with the differents weights of the user alongside the date it has been registered or modified.
+in this page, three different payment options will be shown::
 
-Beneath, the user can do exactly the same with the daily hours of sleep, to check if he/she is sleeping better or worse over the days.
+  - Payment via bank transfer.
+  - payment via bank credit card.
+  - payment via bank PayPal (with a link in case the user has no PayPal account yet)
 
-All this data is saved in a database, so the user does not have to worry about the quantity of data and memory.
-
-## :bar_chart: Evolution
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/9.png?raw=true" width="500"/>
 </p>
 
-Last, but no least, the user will be able to see if he/she have lost or gain weight over the time. By touching the arrow bottons, you user can see a record with the differents weights of the user alongside the date it has been registered or modified.
+A payment have to be chosen (the customer has to pay!).
 
-Beneath, the user can do exactly the same with the daily hours of sleep, to check if he/she is sleeping better or worse over the days.
-
-All this data is saved in a database, so the user does not have to worry about the quantity of data and memory.
+This App does not use a database, all the data is loaded in .txt files.
 
