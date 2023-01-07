@@ -136,8 +136,8 @@ chose a method payment.
 in this page, three different payment options will be shown::
 
   - Payment via bank transfer.
-  - payment via bank credit card.
-  - payment via bank PayPal (with a link in case the user has no PayPal account yet)
+  - Payment via credit card.
+  - Payment via PayPal (with a link in case the user has no PayPal account yet).
 
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/9.png?raw=true" width="500"/>
