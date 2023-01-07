@@ -39,7 +39,7 @@
 
 ## :woman: :man: Logging in
 <p align="center">
-  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/1.png?raw=true" width="500"/>
+  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/gif1.gif?raw=true" width="500"/>
 </p>
 
 First of all, you have to loh in if you want to acess to the App.
@@ -54,7 +54,7 @@ If you have not a user registered, you can create a new one by pressing the butt
 
 ## :baby: Creating new user
 <p align="center">
-  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/2.png?raw=true" alt="drawing" width="500"/>
+  <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/gif4.gif?raw=true" width="500"/>
 </p>
 
 In this page you will be a able to create a new user with him/her own password. The data will be saved in a .txt file.
