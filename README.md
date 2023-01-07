@@ -1,7 +1,5 @@
 # TavernApp
 
-# README UNDER CONSTRUCTION!!!!! <-
-
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/1.png?raw=true" alt="drawing" width="500"/>
 </p>
