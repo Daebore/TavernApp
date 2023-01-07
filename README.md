@@ -21,7 +21,7 @@
 ## 	:page_facing_up: Features 
 - Log in with a registered user :woman: :man:
 
--Creating new user :baby:
+- Creating new user :baby:
 
 - Main menu :house:
 
