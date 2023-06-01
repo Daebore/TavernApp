@@ -34,6 +34,7 @@
 - Paying :euro:
   - Selecting a payment method :credit_card:
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :woman: :man: Logging in
 <p align="center">
@@ -49,6 +50,8 @@ The user's name and password registered in the system are saved in a .txt file, 
 file and searchs for the name and password.
 
 If you have not a user registered, you can create a new one by pressing the buttom "Registrarse".
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :baby: Creating new user
 <p align="center">
@@ -69,6 +72,7 @@ The information can not be empy.
 
 If there it already is a user with the very same name in the system, an error message will be shown as well.
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :house: Main menu
 <p align="center">
@@ -85,6 +89,8 @@ On the left, there will be different options:
   - Payment page. 
   - Returning to Log in menu. 
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
 ## :beer: Ordering drink
 <p align="center">
   <img src="https://github.com/Daebore/Images/blob/main/fotos%20taverna/4.png?raw=true" width="500"/>
@@ -94,6 +100,7 @@ In this page the user will be able to chose the drink he/she wants and the quant
 
 The final price will be shown at the end and the data will be saved in a .txt file.
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :hamburger: Ordering food
 <p align="center">
@@ -104,6 +111,7 @@ In this page the user will be able to chose the food he/she wants and the quanti
 
 The final price will be shown at the end and the data will be saved in a .txt file.
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :pencil: Booking a table
 <p align="center">
@@ -113,6 +121,8 @@ The final price will be shown at the end and the data will be saved in a .txt fi
 The customer can also book a table to go to the tavern to drink/eat without having to wait.
 
 All the data needed is the customer's name, the number of people, the date and an especific hour.
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :euro: Paying
 <p align="center">
@@ -127,6 +137,8 @@ By pressing "Mostrar" the final price will be shown and by pressing "Pagar", the
 
 However, there is a possibility the user has not choosen a payment method yet. At the left of the page, inside a shield, there is a button that allows the users to
 chose a method payment.
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## :credit_card: Selecting a payment method
 <p align="center">
@@ -146,4 +158,6 @@ in this page, three different payment options will be shown::
 A payment have to be chosen (the customer has to pay!).
 
 This App does not use a database, all the data is loaded in .txt files.
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
